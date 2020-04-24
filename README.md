@@ -2,7 +2,7 @@
 
 ![repository_banner](docs/banner.jpg)
 
-Reachy is an actual open source real robot made by the humans of [Pollen Robotics](https://www.pollen-robotics.com/). You can discover what it can do in the real life in the following video presentation:
+Reachy is an actual open source robot made by the humans of [Pollen Robotics](https://www.pollen-robotics.com/). You can discover what it can do in the real life in the following video presentation:
 
 [![Hello I'm Reachy, presentation video](https://img.youtube.com/vi/iSL39WFxCLE/0.jpg)](https://www.youtube.com/watch?v=iSL39WFxCLE)
 
@@ -10,7 +10,7 @@ Reachy is designed with a CAD tool but we decided to import his 3D models in ble
 
 Our models are **distributed under Creatives Commons Attribution-Share-alike 4.0 License**, so feel free to do whatever you want with those 3D models! Just please do not forget to give us credit for the robot and share back if you improve the models :)
 
-As the 3D files are quite heavy, they are not versionned with git, **you will find the blender files on the [releases page](https://github.com/pollen-robotics/reachy-blender/releases), just take the last one!**
+As the 3D files are quite heavy, they are not versionned with git, **you will find the blender files on the [releases page](https://github.com/pollen-robotics/reachy-blender/releases), just take the latest models.zip file!**
 
 You will find materials, subassemblies and the fully assembled Reachy. 
 
